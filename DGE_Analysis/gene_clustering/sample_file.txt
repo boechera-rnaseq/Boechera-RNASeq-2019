@@ -1,0 +1,6 @@
+HS	cdhit_Barc-HS1_RSEM
+HS	cdhit_Barc-HS2_RSEM
+HS	cdhit_Barc-HS3_RSEM
+Control	cdhit_Barc-C1_RSEM
+Control	cdhit_Barc-C2_RSEM
+Control	cdhit_Barc-C3_RSEM
