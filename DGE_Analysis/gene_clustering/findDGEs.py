@@ -7,7 +7,6 @@ TMM_file = "Trinity_cdhit_Barc.gene.TMM.EXPR.matrix"
 #designated output files
 new_matrix_file = "DGE_genes_Barc.TMM.EXPR.matrix"
 out_DGE_file = "Barc_cdhit_DGE.txt"
-#R_DGE_outfile = "Trinity_R_DGE_cdhit_Barc.csv"
 
 #all DGEs - adj p-value < 0.05
 DGE_gene_list = list()
